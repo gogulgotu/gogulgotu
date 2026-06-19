@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gogul K 👋</h1>
 
 <p align="center">
-Software Engineer @ <b>Knowillence Private Limited</b> | Founder &amp; Solo Developer @ <b>Greymet Technology</b>
+Software Engineer @ <b>Knowillence Private Limited</b> | Founder &amp; Solo Freelance Developer @ <b>Greymet Technology</b>
 </p>
 
 <p align="center">
